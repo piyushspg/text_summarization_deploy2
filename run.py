@@ -1,3 +1,2 @@
-from text_summarization_nlp import create_app
-
+from app import Summarize
 app = Summarize()
